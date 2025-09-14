@@ -1,28 +1,13 @@
-# 👋 Hacker and Builder
+# Hacker and Builder
 
-## 🚀 About Me
+I seek to understand systems—not just how they work, but how they can be made to work differently.
 
-My motivation for learning is to just explore what is out there in the field of science—the very thing humanity worked 2 million years to get to where we are. All I want is deep understanding of all and everything, including computer systems.
+My interest lies in the culmination of 2 million years of human progress: the field of science and the systems we've built. Through understanding comes a simple question: **Can I make it work in a way it's not expected to work?**
 
-And through the understanding of systems, comes the question: **"CAN I MAKE IT WORK IN A WAY IT'S NOT EXPECTED TO WORK?"**
+Currently top 10% on [TryHackMe](https://tryhackme.com/p/0xzrf). Cybersecurity remains a useful skill to develop.
 
-## 🔒 Cybersecurity Journey
-
-I've been in the **top 10%** of hackers on the TryHackMe platform, and I'm still learning cybersecurity—more like a hobby that turned into a passion.
-
-🔗 **Check out my TryHackMe profile:** [https://tryhackme.com/p/0xzrf](https://tryhackme.com/p/0xzrf)
-
-## 🎯 What Drives Me
-
-- **Deep Understanding**: Exploring the depths of computer systems and how they work
-- **Creative Problem Solving**: Finding unconventional ways to make systems work
-- **Continuous Learning**: Always pushing boundaries in cybersecurity and technology
-- **Scientific Curiosity**: Fascinated by the culmination of human knowledge and innovation
-
-## 🎌 When I'm Not Coding
-
-I also enjoy watching anime (must've been obvious from my pfp) 😄
+I also watch anime.
 
 ---
 
-*"The best way to understand a system is to try to break it... constructively."*
+*"Understanding a system means knowing exactly where it will break."*
