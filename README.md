@@ -4,7 +4,7 @@ I seek to understand systems—not just how they work, but how they can be made 
 
 My interest lies in the culmination of 2 million years of human progress: the field of science and the systems we've built. Through understanding comes a simple question: **Can I make it work in a way it's not expected to work?**
 
-Currently top 10% on [TryHackMe](https://tryhackme.com/p/0xzrf). Cybersecurity remains a useful skill to develop.
+Hacker @ [TryHackMe](https://tryhackme.com/p/0xzrf). Cybersecurity remains a useful skill to develop.
 
 I also watch anime.
 
