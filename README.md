@@ -14,7 +14,7 @@ Hacker @ [TryHackMe](https://tryhackme.com/p/0xzrf). Cybersecurity remains a use
 
 ### [c-lox](https://github.com/0xzrf/c-lox)
 
-A stack based interpreter that spins up a `VM`, converts the `.lox` to tokens, and then creates `OpCodes` for the source code, which later gets executed. (written in `C`)
+A stack based `VM`, converts the `.lox` to tokens, and then creates `OpCodes` for the source code, which later gets executed withing the `VM` using it's custom opcodes + stack. (written in `C`)
 
 ### [TermChat](https://github.com/0xzrf/TermChat)
 
