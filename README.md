@@ -6,7 +6,8 @@ My interest lies in the culmination of two million years of human progress: scie
 
 **Can I make it work in a way it is not expected to work?**
 
-Hacker @ [TryHackMe](https://tryhackme.com/p/0xzrf) & [pwn.college](https://pwn.college/hacker/0xzrf) Cybersecurity remains a useful skill to develop.
+Hacker @ [TryHackMe](https://tryhackme.com/p/0xzrf) & [pwn.college](https://pwn.college/hacker/0xzrf) 
+Cybersecurity remains a useful skill to develop.
 
 ---
 
