@@ -12,6 +12,10 @@ My interest lies in the culmination of two million years of human progress: scie
 
 A stack based `VM`, converts the `.lox` to tokens, and then creates `OpCodes` for the source code, which later gets executed within the `VM` using it's custom opcodes + stack. (written in `C`)
 
+### [memory-allocator](https://github.com/0xzrf/mem_allocator)
+
+A Doug lea's inspired memory allocator which exposes the `dl_malloc` and `dl_free`, optimized specifically for locality and small byte allocations(hot path)
+
 ### [TermChat](https://github.com/0xzrf/TermChat)
 
 A terminal-based chat project built with a focus on minimal interfaces and practical systems design.
