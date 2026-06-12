@@ -2,7 +2,7 @@
 
 I seek to understand systems — not just how they work, but how they can be made to work differently.
 
-My interest lies in the culmination of two million years of human progress: science, computation, and the systems we've built around them. Through understanding comes a simple question:
+My interest lies in the culmination of two million years of human progress: science, computation, and the systems we've built around them.
 
 ---
 
