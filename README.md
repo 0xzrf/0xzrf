@@ -4,12 +4,6 @@ I seek to understand systems — not just how they work, but how they can be mad
 
 My interest lies in the culmination of two million years of human progress: science, computation, and the systems we've built around them. Through understanding comes a simple question:
 
-**Can I make it work in a way it is not expected to work?**
-
-Hacker @ [TryHackMe](https://tryhackme.com/p/0xzrf) & [pwn.college](https://pwn.college/hacker/0xzrf) 
-
-Cybersecurity remains a useful skill to develop.
-
 ---
 
 ## Top Projects
