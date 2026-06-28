@@ -24,8 +24,8 @@ A terminal-based chat project built with a focus on minimal interfaces and pract
 
 A Solana transaction indexer for tracking instructions across Meteora and Raydium ecosystems for specific pubkeys with db store feature.
 
-### [macros-experiment](https://github.com/0xzrf/macros-experiment)
+### [zig-http](https://github.com/0xzrf/zig-http)
 
-An exploration of Rust macros and compile-time metaprogramming patterns.
+A lightweight http server written in rust to save and retrieve contacts, serving both frontend and backend, written in Zig
 
 
