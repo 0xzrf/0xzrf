@@ -26,6 +26,6 @@ A Solana transaction indexer for tracking instructions across Meteora and Raydiu
 
 ### [zig-http](https://github.com/0xzrf/zig-http)
 
-A lightweight http server written in rust to save and retrieve contacts, serving both frontend and backend, written in Zig
+A lightweight http server written in zig to save and retrieve contacts, serving both frontend and backend
 
 
