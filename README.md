@@ -10,7 +10,7 @@ My interest lies in the culmination of two million years of human progress: scie
 
 ### [c-lox](https://github.com/0xzrf/c-lox)
 
-A stack based `VM`, converts the `.lox` to tokens, and then creates `OpCodes` for the source code, which later gets executed within the `VM` using it's custom opcodes + stack. (written in `C`)
+A stack based `VM`, converts the `.lox` to tokens, and then creates `OpCodes` for the source code, which later gets executed within the `VM` using it's custom opcodes + stack. 
 
 ### [memory-allocator](https://github.com/0xzrf/mem_allocator)
 
