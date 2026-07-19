@@ -5,6 +5,9 @@ I seek to understand systems — not just how they work, but how they can be mad
 My interest lies in the culmination of two million years of human progress: science, computation, and the systems we've built around them.
 
 ---
+## Open Source
+You can fine my open source activities [here](https://0xzrf.xyz/open-source)
+---
 
 ## Top Projects
 
