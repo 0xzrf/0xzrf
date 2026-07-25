@@ -6,7 +6,7 @@ My interest lies in the culmination of two million years of human progress: scie
 
 ---
 ## Open Source
-You can fine my open source activities [here](https://0xzrf.xyz/open-source)
+You can find my open source activities [here](https://0xzrf.xyz/open-source)
 ---
 
 ## Top Projects
